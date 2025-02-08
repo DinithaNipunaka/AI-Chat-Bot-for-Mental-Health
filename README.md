@@ -3,10 +3,10 @@
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-# Install dependencies (only the first time)
+## Install dependencies (only the first time)
 npm install
 
-# Run the local server at localhost:8080
+## Run the local server at localhost:8080
 npm run dev 
 
 # Clone this repository: https://github.com/DinithaNipunaka/Chat-Bot-AI-for-Mental-Health
